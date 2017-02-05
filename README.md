@@ -25,7 +25,7 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 <li><a href="#跳转到应用商店">跳转到应用商店</a></li>
 <li><a href="#library发布到jcenter">library发布到jcenter</a></li>
 <li><a href="#Android TV开发">Android TV开发</a></li>
-<ul>
+</ul>
 
 ## <p id="jump">Activity</p>
 
