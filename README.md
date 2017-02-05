@@ -1,5 +1,5 @@
 # AndroidCode
-学习过程中，收藏夹中优秀的文章
+Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，欢迎提交request！
 
 ## 关于我
 
@@ -57,6 +57,14 @@
 ## 支付相关
 
 1.<a href="http://www.jianshu.com/p/2aa2e8748476">超详细Android接入支付宝支付实现，有图有真相</a><br/>
+
+## Rxjava相关
+
+1.<a href="http://gank.io/post/560e15be2dca930e00da1083">给 Android 开发者的 RxJava 详解</a><br/>
+2.<a href="http://blog.csdn.net/lzyzsd/article/details/41833541">深入浅出RxJava（一：基础篇）</a><br/>
+3.<a href="http://blog.csdn.net/eastmoon502136/article/details/50846646">Android开发学习之路--RxAndroid之初体验</a><br/>
+4.<a href="http://www.cnblogs.com/halzhang/p/4458095.html">RxJava 的使用入门 </a><br/>
+5.<a href="http://android.walfud.com/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-rxjava-%E5%9F%BA%E7%A1%80%E7%AF%87/">彻底搞懂 RxJava </a><br/>
 
 
 ## 数据库
