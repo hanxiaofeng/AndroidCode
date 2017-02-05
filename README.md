@@ -9,11 +9,8 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 ## 目录
 
 一.<a href="#jump">Activity</a><br/>
-
 二.<a href="#Service">Service</a><br/>
-
 三.<a href="#BroadcastReceiver">BroadcastReceiver</a><br/>
-
 四.<a href="#Fragment">Fragment</a><br/>
 五.<a href="#Notification">Notification</a><br/>
 六.<a href="#网络框架">网络框架</a><br/>
