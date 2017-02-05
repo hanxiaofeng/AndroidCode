@@ -74,10 +74,10 @@
 
 ## library发布到jcenter
 
-<a href="http://www.myexception.cn/android/1976318.html">怎么把Android studio中的Library发布到Jcenter</a><br/>
-<a href="https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/">Publishing Gradle Android library to jCenter repository</a>
-<a href="http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html">如何使用Android Studio把自己的Android library分享到jCenter和Maven Central</a>
-<a href="https://github.com/msdx/gradle-publish">msdx/gradle-publish: Gradle scripts to publish aar.</a>
+<a href="http://www.myexception.cn/android/1976318.html">1.怎么把Android studio中的Library发布到Jcenter</a><br/>
+<a href="https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/">2.Publishing Gradle Android library to jCenter repository</a><br/>
+<a href="http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html">3.如何使用Android Studio把自己的Android library分享到jCenter和Maven Central</a><br/>
+<a href="https://github.com/msdx/gradle-publish">4.msdx/gradle-publish: Gradle scripts to publish aar.</a><br/>
 
 
 
