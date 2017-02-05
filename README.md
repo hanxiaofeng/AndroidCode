@@ -9,22 +9,22 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 ## 目录
 
 <ul>
-<li><a href="#jump">Activity</a></li><br/>
-<li>.<a href="#Service">Service</a></li><br/>
-<li>.<a href="#BroadcastReceiver">BroadcastReceiver</a></li><br/>
-<li>.<a href="#Fragment">Fragment</a></li><br/>
-<li>.<a href="#Notification">Notification</a></li><br/>
-<li>.<a href="#网络框架">网络框架</a></li><br/>
-<li>.<a href="#RecyclerView">RecyclerView</a></li><br/>
-<li>.<a href="#支付相关">支付相关</a></li><br/>
-<li>.<a href="#Rxjava相关">Rxjava相关</a></li><br/>
-<li>.<a href="#数据库">数据库</a></li><br/>
-<li>.<a href="#Android6.0权限管理">Android6.0权限管理</a></li><br/>
-<li>.<a href="#Material Design">Material Design</a></li><br/>
-<li>.<a href="#混淆">混淆</a></li><br/>
-<li>.<a href="#跳转到应用商店">跳转到应用商店</a></li><br/>
-<li>.<a href="#library发布到jcenter">library发布到jcenter</a></li><br/>
-<li>.<a href="#Android TV开发">Android TV开发</a></li><br/>
+<li><a href="#jump">Activity</a></li>
+<li><a href="#Service">Service</a></li>
+<li><a href="#BroadcastReceiver">BroadcastReceiver</a></li>
+<li><a href="#Fragment">Fragment</a></li>
+<li><a href="#Notification">Notification</a></li>
+<li><a href="#网络框架">网络框架</a></li><br/>
+<li><a href="#RecyclerView">RecyclerView</a></li>
+<li><a href="#支付相关">支付相关</a></li>
+<li><a href="#Rxjava相关">Rxjava相关</a></li>
+<li><a href="#数据库">数据库</a></li><br/>
+<li><a href="#Android6.0权限管理">Android6.0权限管理</a></li>
+<li><a href="#Material Design">Material Design</a></li>
+<li><a href="#混淆">混淆</a></li>
+<li><a href="#跳转到应用商店">跳转到应用商店</a></li>
+<li><a href="#library发布到jcenter">library发布到jcenter</a></li>
+<li><a href="#Android TV开发">Android TV开发</a></li>
 <ul>
 
 ## <p id="jump">Activity</p>
