@@ -8,10 +8,25 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 
 ## 目录
 
-一.<a href="#jump">Activity</a>
+一.<a href="#jump">Activity</a><br/>
 
-二.Service
-三.BroadcastReceiver
+二.<a href="#Service">Service</a><br/>
+
+三.<a href="#BroadcastReceiver">BroadcastReceiver</a><br/>
+
+四.<a href="#Fragment">Fragment</a><br/>
+五.<a href="#Notification">Notification</a><br/>
+六.<a href="#网络框架">网络框架</a><br/>
+七.<a href="#RecyclerView">RecyclerView</a><br/>
+八.<a href="#支付相关">支付相关</a><br/>
+九.<a href="#Rxjava相关">Rxjava相关</a><br/>
+十.<a href="#数据库">数据库</a><br/>
+十一.<a href="#Android6.0权限管理">Android6.0权限管理</a><br/>
+十二.<a href="#Material Design">Material Design</a><br/>
+十三.<a href="#混淆">混淆</a><br/>
+十四.<a href="#跳转到应用商店">跳转到应用商店</a><br/>
+十五.<a href="#library发布到jcenter">library发布到jcenter</a><br/>
+十六.<a href="#Android TV开发">Android TV开发</a><br/>
 
 ## <p id="jump">Activity</p>
 
@@ -21,22 +36,22 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 
 
 
-## Service
+## <p id="Service">Service</p>
 
 1.<a href="http://blog.csdn.net/liuhe688/article/details/6874378">基础总结篇之四：Service完全解析</a><br/>
 
-## BroadcastReceiver
+## <p id="BroadcastReceiver">BroadcastReceiver</p>
 
 1.<a href="http://blog.csdn.net/liuhe688/article/details/6955668">基础总结篇之五：BroadcastReceiver应用详解 </a><br/>
 
 
-## Fragment
+## <p id="Fragment">Fragment</p>
 
 1.<a href="https://github.com/YoKeyword/Fragmentation">A powerful library that manage Fragment for Android!</a><br/>
 2.<a href="http://www.jianshu.com/p/d9143a92ad94">Fragment全解析系列（一）</a><br/>
 
 
-## Notification
+## <p id="Notification">Notification</p>
 
 1.<a href="http://www.th7.cn/Program/Android/201605/856190.shtml">Notification（Notification的通知栏常驻、各种样式、点击无效、禁止滑动删除、兼容低版本</a><br/>
 2.<a href="http://blog.csdn.net/csh159/article/details/8208525">android 模仿自带的notifacation提示左右滑动删除Listveiw的item项</a><br/>
@@ -47,25 +62,25 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 7.<a href="http://blog.csdn.net/loongggdroid/article/details/17616509">Android之Notification的多种用法</a><br/>
 
 
-## 网络框架
+## <p id="网络框架">网络框架</p>
 
 1.<a href="http://www.bkjia.com/Androidjc/995850.html">Android 网络框架学习之Retrofit</a><br/>
 2.<a href="http://www.open-open.com/lib/view/open1435381942341.html">Android网络请求库：Retrofit</a><br/>
 3.<a href="http://blog.csdn.net/u014099894/article/details/51441462">Android 网络框架 Retrofit2.0介绍、使用和封装</a><br/>
 
 
-## RecyclerView
+## <p id="RecyclerView">RecyclerView</p>
 
 1.<a href="https://www.zhihu.com/question/36861280">android中recyclerview嵌套于scrollview中不显示？ </a><br/>
 2.<a href="http://blog.csdn.net/yaochangliang159/article/details/50540276">解决NestedScrollView 嵌套 RecyclerView出现的滑动冲突问题</a><br/>
 3.<a href="http://blog.csdn.net/sbsujjbcy/article/details/50112391">Android RecyclerView瀑布流布局添加Footer实现上拉加载 </a><br/>
 4.<a href="https://github.com/shichaohui/AnimRefreshRecyclerView">下拉刷新和上拉加载更多的RecyclerView</a><br/>
 
-## 支付相关
+## <p id="支付相关">支付相关</p>
 
 1.<a href="http://www.jianshu.com/p/2aa2e8748476">超详细Android接入支付宝支付实现，有图有真相</a><br/>
 
-## Rxjava相关
+## <p id="Rxjava相关">Rxjava相关</p>
 
 1.<a href="http://gank.io/post/560e15be2dca930e00da1083">给 Android 开发者的 RxJava 详解</a><br/>
 2.<a href="http://blog.csdn.net/lzyzsd/article/details/41833541">深入浅出RxJava（一：基础篇）</a><br/>
@@ -74,14 +89,14 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 5.<a href="http://android.walfud.com/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-rxjava-%E5%9F%BA%E7%A1%80%E7%AF%87/">彻底搞懂 RxJava </a><br/>
 
 
-## 数据库
+## <p id="数据库">数据库</p>
 1.<a href="http://blog.csdn.net/u012702547/article/details/52226163">GreenDAO3.0使用指南</a><br/>
 2.<a href="http://blog.csdn.net/growth58/article/details/50453038">GreenDao数据库升级解决方案</a><br/>
 3.<a href="http://blog.csdn.net/sbsujjbcy/article/details/48175911">GreenDao自定义类型转换器与代码混淆配置</a><br/>
 4.<a href="https://github.com/LitePalFramework/LitePal">郭神LitePal数据库框架</a><br/>
 5.<a href="http://blog.csdn.net/liuhe688/article/details/6715983">Android中SQLite应用详解</a><br/>
 
-## Android6.0权限管理
+## <p id="Android6.0权限管理">Android6.0权限管理</p>
 
 1.<a href="https://github.com/lovedise/PermissionGen">PermissionGen</a><br/>
 2.<a href="https://github.com/baiiu/easypermissions/blob/master/README-cn.md">easypermission</a><br/>
@@ -89,7 +104,7 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 4.<a href="https://github.com/hotchemi/PermissionsDispatcher">PermissionsDispatcher: </a><br/>
 5.<a href="https://github.com/CankingApp/PermissionDemo">PermissionDemo</a><br/>
 
-## Material Design
+## <p id="Material Design">Material Design</p>
 
 1.<a href="http://blog.csdn.net/hknock/article/details/51243832">Android Material Design 兼容库的使用详解</a><br/>
 2.<a href="http://blog.csdn.net/jdsjlzx/article/details/41441083/">Android Material Design之Toolbar与Palette实践</a><br/>
@@ -97,26 +112,26 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 4.<a href="https://github.com/lgvalle/Material-Animations">lgvalle/Material-Animations</a><br/>
 5.<a href="http://www.jianshu.com/p/1e6eed09d48b">Android Material Design 兼容库的使用详解</a><br/>
 
-## 混淆
+## <p id="混淆">混淆</p>
 
 1.<a href="http://blog.csdn.net/caiwenfeng_for_23/article/details/42438529">android混淆点滴知识</a><br/>
 2.<a href="http://blog.sina.com.cn/s/blog_4e1e357d0101ednf.html">anroid使用Gson混淆遇到的bug</a><br/>
 3.<a href="https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md">Android资源混淆工具使用说明</a><br/>
 4.<a href="https://github.com/zhonghanwen/AndroidProguardPlugin">一键生成项目混淆代码插件，值得你安装~</a><br/>
 
-## 跳转到应用商店
+## <p id="跳转到应用商店">跳转到应用商店</p>
 
 1.<a href="http://jingyan.baidu.com/article/f3ad7d0f01a66f09c2345b10.html">Android软件中实现跳转到应用商店进行评分</a><br/>
 
 
-## library发布到jcenter
+## <p id="library发布到jcenter">library发布到jcenter</p>
 
 1.<a href="http://www.myexception.cn/android/1976318.html">怎么把Android studio中的Library发布到Jcenter</a><br/>
 2.<a href="https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/">Publishing Gradle Android library to jCenter repository</a><br/>
 3.<a href="http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html">如何使用Android Studio把自己的Android library分享到jCenter和Maven Central</a><br/>
 4.<a href="https://github.com/msdx/gradle-publish">msdx/gradle-publish: Gradle scripts to publish aar.</a><br/>
 
-## Android TV开发
+## <p id="Android TV开发">Android TV开发</p>
 
 1.<a href="https://git.oschina.net/hailongqiu/AndroidTVWidget">TV开发框架AndroidTVWidget</a><br/>
 
