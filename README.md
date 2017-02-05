@@ -14,11 +14,11 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 <li><a href="#BroadcastReceiver">BroadcastReceiver</a></li>
 <li><a href="#Fragment">Fragment</a></li>
 <li><a href="#Notification">Notification</a></li>
-<li><a href="#网络框架">网络框架</a></li><br/>
+<li><a href="#网络框架">网络框架</a></li>
 <li><a href="#RecyclerView">RecyclerView</a></li>
 <li><a href="#支付相关">支付相关</a></li>
 <li><a href="#Rxjava相关">Rxjava相关</a></li>
-<li><a href="#数据库">数据库</a></li><br/>
+<li><a href="#数据库">数据库</a></li>
 <li><a href="#Android6.0权限管理">Android6.0权限管理</a></li>
 <li><a href="#Material Design">Material Design</a></li>
 <li><a href="#混淆">混淆</a></li>
