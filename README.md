@@ -25,6 +25,7 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 <li><a href="#跳转到应用商店">跳转到应用商店</a></li>
 <li><a href="#library发布到jcenter">library发布到jcenter</a></li>
 <li><a href="#Android TV开发">Android TV开发</a></li>
+<li><a href="#国外优秀博客">国外优秀博客</a></li>
 </ul>
 
 ## <p id="jump">Activity</p>
@@ -133,6 +134,12 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 ## <p id="Android TV开发">Android TV开发</p>
 
 1.<a href="https://git.oschina.net/hailongqiu/AndroidTVWidget">TV开发框架AndroidTVWidget</a><br/>
+
+
+## <p id="国外优秀博客">国外优秀博客</p>
+
+
+1.<a href="https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.hj6cc3pzt">十分很不多的App源码分享，值得一看</a><br/>
 
 
 
