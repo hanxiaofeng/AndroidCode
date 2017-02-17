@@ -140,6 +140,8 @@ Android学习过程中，收藏夹中优秀的文章,如果你想参与进来，
 
 
 1.<a href="https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.hj6cc3pzt">十分不错的App源码分享，值得一看</a><br/>
+2.<a href="https://github.com/rey5137/material">material design 控件合集</a><br/>
+
 
 
 
